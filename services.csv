@@ -1,0 +1,84 @@
+name,port
+MaxDB,7210
+MySQL,3306
+Oracle DB,1521
+Oracle DB,1830
+PostgreSQL,5432
+SQL Server (MSSQL),1433
+SQL Server (MSSQL),1434
+ArangoDB,8529
+Cassandra,7000
+Cassandra,7001
+Cassandra,9042
+CouchDB,5984
+Discord,6463
+Dropbox,17600
+Elasticsearch,9200
+Elasticsearch,9300
+MongoDB,27017
+MongoDB,27018
+MongoDB,27019
+MongoDB,28017
+Neo4J,7473
+Neo4J,7474
+Redis,6379
+Riak,8087
+Redis,8098
+RethinkDB,8080
+RethinkDB,28015
+RethinkDB,29015
+Solr,7574
+Solr,8983
+JBoss EAP,3528
+JBoss EAP,3529
+JBoss EAP,4447
+JBoss EAP,8009
+JBoss EAP,8080
+JBoss EAP,8443
+JBoss EAP,9990
+JBoss EAP,9999
+Jetty,8080
+Tomcat,8005
+Tomcat,8009
+Tomcat,8080
+WildFly,4712
+WildFly,4713
+WildFly,8009
+WildFly,8080
+WildFly,8443
+WildFly,9990
+WildFly,9993
+WebLogic,5556
+WebLogic,7001
+WebLogic,7002
+WebLogic,8001
+WebSphere,8008
+WebSphere,9043
+WebSphere,9060
+WebSphere,9080
+WebSphere,9443
+Consul,8300
+Consul,8301
+Consul,8302
+Consul,8400
+Consul,8500
+Consul,8600
+etcd,2379
+etcd,2380
+Kubernetes,6443
+Kubernetes,8080
+Mesos,5050
+Mesos,5051
+ZooKeeper,2181
+ZooKeeper,2888
+ZooKeeper,3888
+Steam,27060
+Media Player,3689
+Tor Daemon,9050
+Tor Daemon,9051
+Tor Browser,9150
+Tor Browser,9151
+Brave Tor Browser,9350
+Serve,5000
+Jekyll,4000
+Parcel,1234
